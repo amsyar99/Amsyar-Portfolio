@@ -355,12 +355,6 @@ span {
     font-size: 1.3rem;
 }
 
-/* ─── In-section anchors ─── */
-#skills,
-#languages {
-    scroll-margin-top: 80px;
-}
-
 /* ─── Skill categories ─── */
 .skill-category {
     margin-bottom: 2.4rem;
